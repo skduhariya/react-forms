@@ -1,6 +1,4 @@
-import "./App.css";
-import "./index.css";
-import SimpleInput from "./components/SimpleInput";
+import SimpleInput from './components/SimpleInput';
 
 function App() {
   return (
